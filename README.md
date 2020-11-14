@@ -1,6 +1,6 @@
 # MIP_ReLU_Adv_Attack
 
-Repository for storing Project Code. 
+Repository for storing Project Code. Final Project for Deep Learning in Discrete Optimization 
 - Most code is formatted from google collab paths. 
 - Dataset used is the IMBD Movie Review Binary Dataset, data is condensed into csvs and compressed for file storage. 
 - Read project report for more details. 
